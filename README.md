@@ -57,7 +57,14 @@ Please consider citing our paper. 👇👇👇
 *(**Note that the current version of our survey is only a draft, and we are still working on it.**)* 🚀
 
 ```
-coming soon
+@misc{li2023foundation,
+      title={Foundation Models in Smart Agriculture: Basics, Opportunities, and Challenges}, 
+      author={Jiajia Li and Mingle Xu and Lirong Xiang and Dong Chen and Weichao Zhuang and Xunyuan Yin and Zhaojian Li},
+      year={2023},
+      eprint={2308.06668},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
 ```
 
 <!-- TODO: add survey citation and link -->
