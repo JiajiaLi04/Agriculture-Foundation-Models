@@ -112,6 +112,8 @@ In our paper, we divide the textual instructions into four categories.
 2. Li, Junnan, et al. "Blip: Bootstrapping language-image pre-training for unified vision-language understanding and generation." International Conference on Machine Learning. PMLR, 2022. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=BLIP_Bootstrapping+Language-Image+Pre-training+for+Unified+Vision-Language+Understanding+and+Generation&btnG=) [[Paper]](https://proceedings.mlr.press/v162/li22n.html)
 3. Alayrac, Jean-Baptiste, et al. "Flamingo: a visual language model for few-shot learning." Advances in Neural Information Processing Systems 35 (2022): 23716-23736. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=-Flamingo_a+Visual+Language+Model+for+Few-Shot+Learning&btnG=) [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/960a172bc7fbf0177ccccbb411a7d800-Abstract-Conference.html)
 4. Huang, Shaohan, et al. "Language is not all you need: Aligning perception with language models." arXiv preprint arXiv:2302.14045 (2023). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0,23&q=KOSMOS-1-Language+Is+Not+All+You+Need+Aligning+Perception+with+Language+Models) [[Paper]](https://arxiv.org/abs/2302.14045)
+5. Girdhar, Rohit, et al. "Imagebind: One embedding space to bind them all." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.pdf)
+6. Wei, Longhui, et al. "Mvp: Multimodality-guided visual pre-training." European Conference on Computer Vision. Cham: Springer Nature Switzerland, 2022.[[Arxiv]](https://arxiv.org/pdf/2203.05175.pdf)
 
 ### 3.4 Reinforcement learning foundation models 
 1. Reed, Scott, et al. "A generalist agent." arXiv preprint arXiv:2205.06175 (2022). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=A+Generalist+Agent&btnG=) [[Paper]](https://arxiv.org/abs/2205.06175)
@@ -122,3 +124,16 @@ In our paper, we divide the textual instructions into four categories.
 2. Williams, Dominic, Fraser MacFarlane, and Avril Britten. "Leaf Only SAM: A Segment Anything Pipeline for Zero-Shot Automated Leaf Segmentation." arXiv preprint arXiv:2305.09418 (2023). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Leaf+Only+SAM+A+Segment+Anything+Pipeline+for+Zero-Shot+Automated+Leaf+Segmentation&btnG=) [[Paper]](https://arxiv.org/abs/2305.09418)
 3. Yang, Xiao, et al. "SAM for Poultry Science." arXiv preprint arXiv:2305.10254 (2023). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=SAM+for+Poultry+Science&btnG=) [[Paper]](https://arxiv.org/abs/2305.10254)
 
+## Discussions
+
+### Data collection
+
+
+### Training efficiency
+1. Lee, Yoonho, et al. "Surgical Fine-Tuning Improves Adaptation to Distribution Shifts." The Eleventh International Conference on Learning Representations. 2022.[[Arxiv]](https://arxiv.org/pdf/2210.11466.pdf)
+
+
+### Domain distribution
+
+
+### More challenges in real-world deployment
