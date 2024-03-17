@@ -104,7 +104,8 @@ In our paper, we divide the textual instructions into four categories.
 ### 3.1 Language foundation models 
 1. Devlin, Jacob, et al. "Bert: Pre-training of deep bidirectional transformers for language understanding." arXiv preprint arXiv:1810.04805 (2018). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=BERT+Pre-training+of+Deep+Bidirectional+Transformers+for+Language+Understanding&btnG=) [[Paper]](https://arxiv.org/abs/1810.04805)
 2. Du, Nan, et al. "Glam: Efficient scaling of language models with mixture-of-experts." International Conference on Machine Learning. PMLR, 2022. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=GLaM+Efficient+Scaling+of+Language+Models+with+Mixture-of-Experts&btnG=) [[Paper]](https://proceedings.mlr.press/v162/du22c.html)
-
+3. Claude 3 [[Website]](https://www.anthropic.com/news/claude-3-family)
+   
 ### 3.2 Vision foundation models 
 1. Yuan, Lu, et al. "Florence: A new foundation model for computer vision." arXiv preprint arXiv:2111.11432 (2021). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Florence+A+New+Foundation+Model+for+Computer+Vision&btnG=) [[Paper]](https://arxiv.org/abs/2111.11432)
 2. Ramesh, Aditya, et al. "Hierarchical text-conditional image generation with clip latents." arXiv preprint arXiv:2204.06125 (2022). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=DALLE2-Hierarchical+Text-Conditional+Image+Generation+with+CLIP+Latents&btnG=) [[Paper]](https://arxiv.org/abs/2204.06125)
@@ -121,6 +122,7 @@ In our paper, we divide the textual instructions into four categories.
 4. Huang, Shaohan, et al. "Language is not all you need: Aligning perception with language models." arXiv preprint arXiv:2302.14045 (2023). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0,23&q=KOSMOS-1-Language+Is+Not+All+You+Need+Aligning+Perception+with+Language+Models) [[Paper]](https://arxiv.org/abs/2302.14045)
 5. Girdhar, Rohit, et al. "Imagebind: One embedding space to bind them all." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.pdf)
 6. Wei, Longhui, et al. "Mvp: Multimodality-guided visual pre-training." European Conference on Computer Vision. Cham: Springer Nature Switzerland, 2022.[[Arxiv]](https://arxiv.org/pdf/2203.05175.pdf)
+7. Gemini 1.5.[[Website]](https://deepmind.google/technologies/gemini/#introduction)
 
 ### 3.4 Reinforcement learning foundation models 
 1. Reed, Scott, et al. "A generalist agent." arXiv preprint arXiv:2205.06175 (2022). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=A+Generalist+Agent&btnG=) [[Paper]](https://arxiv.org/abs/2205.06175)
