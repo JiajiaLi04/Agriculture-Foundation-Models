@@ -57,13 +57,11 @@ Please consider citing our paper. 👇👇👇
 *(**Note that the current version of our survey is only a draft, and we are still working on it.**)* 🚀
 
 ```
-@misc{li2023foundation,
-      title={Foundation Models in Smart Agriculture: Basics, Opportunities, and Challenges}, 
-      author={Jiajia Li and Mingle Xu and Lirong Xiang and Dong Chen and Weichao Zhuang and Xunyuan Yin and Zhaojian Li},
-      year={2023},
-      eprint={2308.06668},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@article{li2023foundation,
+  title={Foundation models in smart agriculture: Basics, opportunities, and challenges},
+  author={Li, Jiajia and Xu, Mingle and Xiang, Lirong and Chen, Dong and Zhuang, Weichao and Yin, Xunyuan and Li, Zhaojian},
+  journal={arXiv preprint arXiv:2308.06668},
+  year={2023}
 }
 ```
 
