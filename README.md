@@ -57,11 +57,14 @@ Please consider citing our paper. 👇👇👇
 *(**Note that the current version of our survey is only a draft, and we are still working on it.**)* 🚀
 
 ```
-@article{li2023foundation,
+@article{li2024foundation,
   title={Foundation models in smart agriculture: Basics, opportunities, and challenges},
   author={Li, Jiajia and Xu, Mingle and Xiang, Lirong and Chen, Dong and Zhuang, Weichao and Yin, Xunyuan and Li, Zhaojian},
-  journal={arXiv preprint arXiv:2308.06668},
-  year={2023}
+  journal={Computers and Electronics in Agriculture},
+  volume={222},
+  pages={109032},
+  year={2024},
+  publisher={Elsevier}
 }
 ```
 
