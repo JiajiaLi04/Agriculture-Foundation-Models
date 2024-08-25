@@ -143,18 +143,4 @@ In our paper, we divide the textual instructions into four categories.
 10. Cao, Yiyi, et al. "Cucumber disease recognition with small samples using image-text-label-based multi-modal language model." Computers and Electronics in Agriculture 211 (2023): 107993. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C47&q=Cucumber+disease+recognition+with+small+samples+using+image-text-label-based+multi-modal+language+model&btnG=) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169923003812?casa_token=eK3Lkip3GtgAAAAA:HbuFU3XUGseIHIfd9mOc43hSe02exDy_Fubf_fWP9DIs3xDDBFUUI17oCpHZIL19NXOGwO4bNRWm)
 11. Stella, Francesco, Cosimo Della Santina, and Josie Hughes. "How can LLMs transform the robotic design process?." Nature Machine Intelligence 5.6 (2023): 561-564. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C47&q=How+can+LLMs+transform+the+robotic+design+process%3F&btnG=) [[Paper]](https://www.nature.com/articles/s42256-023-00669-7)
 12. Tan, Chenjiao, et al. "On the promises and challenges of multimodal foundation models for geographical, environmental, agricultural, and urban planning applications." arXiv preprint arXiv:2312.17016 (2023). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C47&q=On+the+promises+and+challenges+of+multimodal+foundation+models+for+geographical%2C+environmental%2C+agricultural%2C+and+urban+planning+applications&btnG=) [[Paper]](https://arxiv.org/abs/2312.17016)
-
-
-## Discussions
-
-### Data collection
-
-
-### Training efficiency
-1. Lee, Yoonho, et al. "Surgical Fine-Tuning Improves Adaptation to Distribution Shifts." The Eleventh International Conference on Learning Representations. 2022.[[Arxiv]](https://arxiv.org/pdf/2210.11466.pdf)
-
-
-### Domain distribution
-
-
-### More challenges in real-world deployment
+13. Zhao, Xinyan, Baiyan Chen, Mengxue Ji, Xinyue Wang, Yuhan Yan, Jinming Zhang, Shiyingjie Liu, Muyang Ye, and Chunli Lv. "Implementation of Large Language Models and Agricultural Knowledge Graphs for Efficient Plant Disease Detection." Agriculture 14, no. 8 (2024): 1359.[[Paper]](https://www.mdpi.com/2077-0472/14/8/1359)
