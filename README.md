@@ -57,14 +57,11 @@ Please consider citing our paper. 👇👇👇
 *(**Note that the current version of our survey is only a draft, and we are still working on it.**)* 🚀
 
 ```
-@article{li2024foundation,
-  title={Foundation models in smart agriculture: Basics, opportunities, and challenges},
-  author={Li, Jiajia and Xu, Mingle and Xiang, Lirong and Chen, Dong and Zhuang, Weichao and Yin, Xunyuan and Li, Zhaojian},
-  journal={Computers and Electronics in Agriculture},
-  volume={222},
-  pages={109032},
-  year={2024},
-  publisher={Elsevier}
+@article{sapkota2024multi,
+  title={Multi-modal LLMs in agriculture: A comprehensive review},
+  author={Sapkota, Ranjan and Qureshi, Rizwan and Hassan, Syed Zohaib and Shutske, John and Shoman, Maged and Sajjad, Muhammad and Dharejo, Fayaz Ali and Paudel, Achyut and Li, Jiajia and Meng, Zhichao and others},
+  journal={Authorea Preprints},
+  publisher={Authorea}
 }
 ```
 
