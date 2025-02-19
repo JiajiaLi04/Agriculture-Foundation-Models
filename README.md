@@ -6,7 +6,7 @@
 
 ![](https://img.shields.io/github/last-commit/JiajiaLi04/Agriculture-Foundation-Models?color=#00FA9A) ![](https://img.shields.io/badge/PaperNumber-39-blue) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
-A curated list of awesome **Foundation Models in Agriculture** papers 🔥🔥🔥. 
+A curated list of awesome **Large Language and Foundation Models in Agriculture** papers 🔥🔥🔥. 
 
 Currently maintained by <ins>[Jiajia Li](xx) @ MSU</ins>. 
 
