@@ -63,9 +63,6 @@ Please consider citing our paper. 👇👇👇
 }
 ```
 
-## New Papers
-- Wu, Jing, Zhixin Lai, Suiyao Chen, Ran Tao, Pan Zhao, and Naira Hovakimyan. "The New Agronomists: Language Models are Experts in Crop Management." arXiv preprint arXiv:2403.19839 (2024).
-
 <!-- omit in toc -->
 ## 🔍 Table of Contents 
 
