@@ -54,8 +54,6 @@ Find this repository helpful? 😊
 
 Please consider citing our paper. 👇👇👇
 
-*(**Note that the current version of our survey is only a draft, and we are still working on it.**)* 🚀
-
 ```
 @article{sapkota2024multi,
   title={Multi-modal LLMs in agriculture: A comprehensive review},
