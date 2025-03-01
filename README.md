@@ -145,3 +145,4 @@ In our paper, we divide the textual instructions into four categories.
 17. Xie, Yiqun, Zhihao Wang, Weiye Chen, Zhili Li, Xiaowei Jia, Yanhua Li, Ruichen Wang, Kangyang Chai, Ruohan Li, and Sergii Skakun. "When are Foundation Models Effective? Understanding the Suitability for Pixel-Level Classification Using Multispectral Imagery." arXiv preprint arXiv:2404.11797 (2024).
 18. Qing, Jiajun, Xiaoling Deng, Yubin Lan, and Zhikai Li. "GPT-aided diagnosis on agricultural image based on a new light YOLOPC." Computers and electronics in agriculture 213 (2023): 108168.
 19. Dofitas, Cyreneo, Yong-Woon Kim, and Yung-Cheol Byun. "Advanced Agricultural Query Resolution Using Ensemble-Based Large Language Models." IEEE Access (2025).
+20. Zhu, Hongfei, Weiming Shi, Xinyu Guo, Shiting Lyu, Ranbing Yang, and Zhongzhi Han. "Potato disease detection and prevention using multimodal AI and large language model." Computers and Electronics in Agriculture 229 (2025): 109824.
