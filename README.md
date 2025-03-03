@@ -146,3 +146,4 @@ In our paper, we divide the textual instructions into four categories.
 18. Qing, Jiajun, Xiaoling Deng, Yubin Lan, and Zhikai Li. "GPT-aided diagnosis on agricultural image based on a new light YOLOPC." Computers and electronics in agriculture 213 (2023): 108168.
 19. Dofitas, Cyreneo, Yong-Woon Kim, and Yung-Cheol Byun. "Advanced Agricultural Query Resolution Using Ensemble-Based Large Language Models." IEEE Access (2025).
 20. Zhu, Hongfei, Weiming Shi, Xinyu Guo, Shiting Lyu, Ranbing Yang, and Zhongzhi Han. "Potato disease detection and prevention using multimodal AI and large language model." Computers and Electronics in Agriculture 229 (2025): 109824.
+21. Jiang, Xue, Jiashi Wang, Kai Xie, Chenxi Cui, Aobo Du, Xianglong Shi, Wanneng Yang, and Ruifang Zhai. "PlantCaFo: An efficient few-shot plant disease recognition method based on foundation models." Plant Phenomics (2025): 100024.
